@@ -1,7 +1,7 @@
 # ARCHer
 Yet another Arch Linux auto installer
 
-##Prerequisites
+## Prerequisites
 * Arch ISO.
 * Having cloned this installer into any location.
 * An EFI system. (MBR support is coming)
